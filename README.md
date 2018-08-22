@@ -15,7 +15,6 @@ RIDC NeuroMat is a research center established in 2013 at the University of São
 - Created NeuroMat main websites and internal system using Django and Mezzanine CMS, allowing researchers to continuously share specialized instructions on Parkinson's disease and Brachial Plexus Injury for patients as well as students and health professionals
 - In charge of a team of 4 Developers, being responsible for training and coaching employees, and also for evaluating their performance and providing feedback
 
-
 **Academic Network at São Paulo**  
 Support Analyst  
 *Mar 2007 &ndash; Apr 2013*  
@@ -25,7 +24,6 @@ The ANSP project provides the State of São Paulo research community with state 
 - Installed, configured, and maintained dozens of Linux servers, managing different kind of services, such as DNS, DHCP, FTP, HTTP, NTP, SMTP, etc
 - Created shell/python scripts in order to monitor and report security and hardware issues and also to automate repetitive tasks
 - Architected and implemented a virtualization solution using Xen technology, reducing costs by consolidating idle resources and redeploying those resources on new projects
-
 
 **Brazilian Army / Parque Regional de Manutenção/5**  
 IT Manager  

@@ -54,17 +54,17 @@ Title: System for planning, programming and production control
 
 ## Skills
 
-(15+ years) &ndash; Linux system administration
-(10+ years) &ndash; HTML, CSS, PostgreSQL and MySQL
-(8+ years) &ndash; Python
-(6+ years) &ndash; Django, Bootstrap, Javascript, Git, WordPress and Drupal
-(5+ years) &ndash; Jenkins, Jira and Scrum
-(2+ years) &ndash; Django-CMS and Mezzanine
-(1+ years) &ndash; Docker and Travis-CI
+- (15+ years) &ndash; Linux system administration
+- (10+ years) &ndash; HTML, CSS, PostgreSQL and MySQL
+- (8+ years) &ndash; Python
+- (6+ years) &ndash; Django, Bootstrap, Javascript, Git, WordPress and Drupal
+- (5+ years) &ndash; Jenkins, Jira and Scrum
+- (2+ years) &ndash; Django-CMS and Mezzanine
+- (1+ years) &ndash; Docker and Travis-CI
 
 ## Languages
-Portuguese &ndash; Native
-English &ndash; Advanced
+- Portuguese &ndash; Native
+- English &ndash; Advanced
 
 
 
